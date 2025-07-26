@@ -12,7 +12,7 @@
 }
 .header{
     grid-area: header;
-    background: #333;
+    background: #efb9b9;
     color: white;
     display: flex;
     align-items: center;
@@ -38,7 +38,7 @@
   
   .sidebar ul li a {
     text-decoration: none;
-    color: #333;
+    color: #333333;
     font-weight: 500;
     display: block;
     padding: 10px;
@@ -47,7 +47,7 @@
   }
   
   .sidebar ul li a:hover {
-    background-color: #ddd;
+    background-color: #96aef2;
     color: #000;
   }
   
@@ -59,7 +59,7 @@
 
 .footer {
     grid-area: footer;
-    background: #333;
+    background: #efb9b9;
     color: white;
     text-align: center;
     line-height: 60px;
